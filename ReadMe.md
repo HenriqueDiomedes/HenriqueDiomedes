@@ -6,7 +6,7 @@ Hello world, my name is Henrique, I am curretly studying<br> programming focused
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/channels/@henrique.diomedes) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/henrique_diomedes/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-diomedes/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@tiktok.com/@zealfredo90) 
 
 # 💻 Tech Stack:
-[![Python](https://static.wixstatic.com/media/4bef97_3fca4225935f490783ac9ecb3f27a8b1~mv2.png/v1/fill/w_256,h_256,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/python_logo.png){: width="100" height="100"}](https://www.python.org/)
+[![Python](https://static.wixstatic.com/media/4bef97_3fca4225935f490783ac9ecb3f27a8b1~mv2.png/v1/fill/w_256,h_256,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/python_logo.png)](https://www.python.org/)
 [![HTML5](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1nZDpZO8JbKytDHZ6m4HVsDwdfX5FUTuaOQ&s=100x100)](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element)
 [![Python](=100x100)](https://www.python.org/)
 [![CSS3](https://cdn.creazilla.com/icons/3256505/file-type-css-icon-size_256.png=100x100)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
