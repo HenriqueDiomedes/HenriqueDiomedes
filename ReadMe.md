@@ -10,7 +10,7 @@ Hello world, my name is Henrique, I am curretly studying<br> programming focused
 [![Python](https://yaseen-davids.github.io/resume/images/py.png)](https://www.python.org/)
 [![CSS3](https://s28309.pcdn.co/wp-content/themes/321-web-marketing/assets/images/css3-logo-256.png)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [![JavaScript](https://cdn.iconscout.com/icon/free/png-256/free-javascript-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-vol-4-pack-logos-icons-2945018.png)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-[![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
+[![Django](https://www.bglynch.com/images/logos/django.png)](https://www.djangoproject.com/)
 [![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
 # 📊 GitHub Stats:
