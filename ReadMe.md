@@ -9,7 +9,7 @@ Hello world, my name is Henrique, I am curretly studying<br> programming focused
 [![Python](https://static.wixstatic.com/media/4bef97_3fca4225935f490783ac9ecb3f27a8b1~mv2.png/v1/fill/w_256,h_256,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/python_logo.png){: width="100" height="100"}](https://www.python.org/)
 [![HTML5](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1nZDpZO8JbKytDHZ6m4HVsDwdfX5FUTuaOQ&s=100x100)](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element)
 [![Python](=100x100)](https://www.python.org/)
-[![CSS3](https://s28309.pcdn.co/wp-content/themes/321-web-marketing/assets/images/css3-logo-256.png=100x100)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+[![CSS3](https://cdn.creazilla.com/icons/3256505/file-type-css-icon-size_256.png=100x100)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [![JavaScript](https://cdn.iconscout.com/icon/free/png-256/free-javascript-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-vol-4-pack-logos-icons-2945018=100x100)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 [![Django](https://www.bglynch.com/images/logos/django.png=100x100)](https://www.djangoproject.com/)
 [![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white=100x100)](https://www.mysql.com/)
