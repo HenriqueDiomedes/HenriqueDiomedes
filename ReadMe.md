@@ -9,7 +9,7 @@ Hello world, my name is Henrique, I am curretly studying<br> programming focused
 [![HTML5](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1nZDpZO8JbKytDHZ6m4HVsDwdfX5FUTuaOQ&s)](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element)
 [![Python](https://yaseen-davids.github.io/resume/images/py.png)](https://www.python.org/)
 [![CSS3](https://s28309.pcdn.co/wp-content/themes/321-web-marketing/assets/images/css3-logo-256.png)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[![JavaScript](https://cdn.iconscout.com/icon/free/png-256/free-javascript-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-vol-4-pack-logos-icons-2945018.png)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 [![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
 [![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
