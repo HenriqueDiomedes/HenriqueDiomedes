@@ -7,7 +7,7 @@ Hello world, my name is Henrique, I am curretly studying<br> programming focused
 
 # 💻 Tech Stack:
 [![HTML5](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1nZDpZO8JbKytDHZ6m4HVsDwdfX5FUTuaOQ&s=100x100)](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element)
-[![Python](https://yaseen-davids.github.io/resume/images/py.png =100x100)](https://www.python.org/)
+[![Python](https://django-unfriendly.readthedocs.io/en/latest/_static/img/python-logo-256.png=100x100)](https://www.python.org/)
 [![CSS3](https://s28309.pcdn.co/wp-content/themes/321-web-marketing/assets/images/css3-logo-256.png=100x100)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [![JavaScript](https://cdn.iconscout.com/icon/free/png-256/free-javascript-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-vol-4-pack-logos-icons-2945018.png=100x100)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 [![Django](https://www.bglynch.com/images/logos/django.png =100x100)](https://www.djangoproject.com/)
