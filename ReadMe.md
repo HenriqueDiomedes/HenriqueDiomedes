@@ -5,6 +5,8 @@ Hello world, my name is Henrique, I am curretly studying<br> programming focused
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/channels/@henrique.diomedes) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/henrique_diomedes/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-diomedes/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@tiktok.com/@zealfredo90) 
 
+
+
 # 💻 Tech Stack:   
 [<img src="https://mleziva.gallerycdn.vsassets.io/extensions/mleziva/htmlbuild/0.0.1/1572618954321/Microsoft.VisualStudio.Services.Icons.Default" width="70" height="70">](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element)
 [<img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" width="70" height="70">](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
