@@ -7,8 +7,9 @@ Hello world, my name is Henrique, I am curretly studying<br> programming focused
 
 # 💻 Tech Stack:
 
-[<img src="https://mleziva.gallerycdn.vsassets.io/extensions/mleziva/htmlbuild/0.0.1/1572618954321/Microsoft.VisualStudio.Services.Icons.Default" width="100" height="100">](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element)
-[<img src="https://cdn.iconscout.com/icon/free/png-256/free-css-alt-3521367-2944811.png" width="70" height="70">](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+[<img src="https://mleziva.gallerycdn.vsassets.io/extensions/mleziva/htmlbuild/0.0.1/1572618954321/Microsoft.VisualStudio.Services.Icons.Default" width="70" height="70">](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element)
+
+[<img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" width="70" height="70">](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
 [![JavaScript](https://cdn.iconscout.com/icon/free/png-256/free-javascript-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-vol-4-pack-logos-icons-2945018=100x100)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 [![Django](https://www.bglynch.com/images/logos/django.png=100x100)](https://www.djangoproject.com/)
