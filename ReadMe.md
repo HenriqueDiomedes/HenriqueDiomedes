@@ -3,8 +3,6 @@ Hello world, my name is Henrique, I am curretly studying<br> programming focused
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/channels/@henrique.diomedes) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/henrique_diomedes/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-diomedes/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@tiktok.com/@zealfredo90) 
-
 [<img src="img/TikTok_Box_L@0.2x.png" width="50" height="50">](https://tiktok.com/@tiktok.com/@zealfredo90)
 [<img src="img/Instagram_Box_Filled_R Shadowless@0.2x.png" width="50" height="50">](https://www.instagram.com/henrique_diomedes/)
 [<img src="img/Linkedin_Filled_L@0.2x.png" width="50" height="50">](https://www.linkedin.com/in/henrique-diomedes/)
