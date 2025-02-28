@@ -11,10 +11,6 @@ Hello world, my name is Henrique, I am curretly studying<br> programming focused
 [<img src="https://cdn-icons-png.freepik.com/512/423/423066.png" width="70" height="70">](https://www.python.org/)
 [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGGT_pnMHJdps9fGjcDaFSqcfFxO2E7BQk4g&s" width="70" height="70">](https://www.mysql.com/)
 
-[![JavaScript](https://cdn.iconscout.com/icon/free/png-256/free-javascript-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-vol-4-pack-logos-icons-2945018=100x100)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-[![Django](https://www.bglynch.com/images/logos/django.png=100x100)](https://www.djangoproject.com/)
-[![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white=100x100)]()
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=HenriqueDiomedes&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=HenriqueDiomedes&theme=github_dark&hide_border=false)<br/>
