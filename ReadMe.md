@@ -4,10 +4,10 @@ Hello world, my name is Henrique, I am curretly studying<br> programming focused
 
 ## 🌐 Socials:
 
-[<img src="img/tiktok.png" width="60" height="60">](https://tiktok.com/@tiktok.com/@zealfredo90)
-[<img src="img/instagram.png" width="60" height="60">](https://www.instagram.com/henrique_diomedes/)
-[<img src="img/linkedin.png" width="60" height="60">](https://www.linkedin.com/in/henrique-diomedes/)
-[<img src="img/discord.png" width="60" height="60">](https://discord.com/channels/@henrique.diomedes)
+[<img src="img/tiktok.png" width="40" height="40">](https://tiktok.com/@tiktok.com/@zealfredo90)
+[<img src="img/instagram.png" width="40" height="40">](https://www.instagram.com/henrique_diomedes/)
+[<img src="img/linkedin.png" width="40" height="40">](https://www.linkedin.com/in/henrique-diomedes/)
+[<img src="img/discord.png" width="40" height="40">](https://discord.com/channels/@henrique.diomedes)
 
 
 # 💻 Tech Stack:   
