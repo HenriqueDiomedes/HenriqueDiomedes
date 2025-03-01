@@ -14,7 +14,7 @@ Hello world, my name is Henrique, I am curretly studying<br> programming focused
 [<img src="https://mleziva.gallerycdn.vsassets.io/extensions/mleziva/htmlbuild/0.0.1/1572618954321/Microsoft.VisualStudio.Services.Icons.Default" width="70" height="70">](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element)
 [<img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" width="70" height="70">](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [<img src="https://cdn-icons-png.freepik.com/512/423/423066.png" width="70" height="70">](https://www.python.org/)
-[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGGT_pnMHJdps9fGjcDaFSqcfFxO2E7BQk4g&s" width="70" height="70">](https://www.mysql.com/)
+[<img src="https://cdn-icons-png.flaticon.com/256/919/919836.png" width="70" height="70">](https://www.mysql.com/)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=HenriqueDiomedes&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
