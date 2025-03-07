@@ -15,7 +15,7 @@ Hello world, my name is Henrique, I am curretly studying<br> programming focused
 [<img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" width="70" height="70">](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [<img src="https://cdn-icons-png.freepik.com/512/423/423066.png" width="70" height="70">](https://www.python.org/)
 [<img src="https://cdn-icons-png.flaticon.com/256/919/919836.png" width="70" height="70">](https://www.mysql.com/)
-[<img src="https://www.shareicon.net/data/256x256/2016/07/06/106573_software_512x512.png" width="70" height="70">](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[<img src="https://www.shareicon.net/data/256x256/2016/07/06/106573_software_512x512.png" width="90" height="90">](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=HenriqueDiomedes&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
