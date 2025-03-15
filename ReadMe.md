@@ -11,12 +11,19 @@ Hello world, my name is Henrique, I am curretly studying<br> programming focused
 
 
 # 💻 Tech Stack:   
-[<img src="https://mleziva.gallerycdn.vsassets.io/extensions/mleziva/htmlbuild/0.0.1/1572618954321/Microsoft.VisualStudio.Services.Icons.Default" width="50" height="50">](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element)
-[<img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" width="50" height="50">](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-[<img src="https://cdn-icons-png.freepik.com/512/423/423066.png" width="50" height="50">](https://www.python.org/)
-[<img src="https://cdn-icons-png.flaticon.com/256/919/919836.png" width="50" height="50">](https://www.mysql.com/)
-[<img  src="https://media.graphassets.com/auto_image/compress/cache=expiry:max/resize=width:828/eLT1amjQTNS9DfweODjZ" width="50" height="50">](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+</div>
 
+###
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=HenriqueDiomedes&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
