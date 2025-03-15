@@ -17,11 +17,6 @@ Hello world, my name is Henrique, I am curretly studying<br> programming focused
 [<img src="https://cdn-icons-png.flaticon.com/256/919/919836.png" width="50" height="50">](https://www.mysql.com/)
 [<img  src="https://media.graphassets.com/auto_image/compress/cache=expiry:max/resize=width:828/eLT1amjQTNS9DfweODjZ" width="50" height="50">](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
-<p align="center"><b>Visitors Count</b></p> 
-
-<p aline="center">
-<img src="https://visit-counter.vercel.app/counter.png?page=&s=40&c=bb0707&bg=00000000&no=7&ff=electrolize&tb=Visitas%3A++&ta=" alt="visits">
-</p>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=HenriqueDiomedes&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
