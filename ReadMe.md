@@ -20,7 +20,7 @@ Hello world, my name is Henrique, I am curretly studying<br> programming focused
 <p align="center"><b>Visitors Count</b></p> 
 
 <p aline="center">
-<img src="https://visit-counter.vercel.app/counter.png?page=&s=45&c=00ff00&bg=00000000&no=7&ff=ledboard&tb=&ta=Controle+de+visitantes%2C+Volte+sempre" alt="visits">
+<img src="https://visit-counter.vercel.app/counter.png?page=&s=40&c=bb0707&bg=00000000&no=7&ff=electrolize&tb=Visitas%3A++&ta=" alt="visits">
 </p>
 
 # 📊 GitHub Stats:
