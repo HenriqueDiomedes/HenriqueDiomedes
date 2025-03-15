@@ -17,6 +17,12 @@ Hello world, my name is Henrique, I am curretly studying<br> programming focused
 [<img src="https://cdn-icons-png.flaticon.com/256/919/919836.png" width="50" height="50">](https://www.mysql.com/)
 [<img src="https://www.shareicon.net/data/256x256/2016/07/06/106573_software_512x512.png" width="70" height="70">](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
+<p align="center"><b>Visitors Count</b></p> 
+  
+<p align="center">
+  <img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FSaba-abiri&s=50&c=db006a&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" />
+</p> 
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=HenriqueDiomedes&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=HenriqueDiomedes&theme=github_dark&hide_border=false)<br/>
