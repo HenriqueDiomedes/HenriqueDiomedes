@@ -15,7 +15,7 @@ Hello world, my name is Henrique, I am curretly studying<br> programming focused
 [<img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" width="50" height="50">](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [<img src="https://cdn-icons-png.freepik.com/512/423/423066.png" width="50" height="50">](https://www.python.org/)
 [<img src="https://cdn-icons-png.flaticon.com/256/919/919836.png" width="50" height="50">](https://www.mysql.com/)
-[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTvTsaCQ0AVQCJQ_rq-jkfT40f03me0dOq9g&s" width="50" height="50" border-radius ="50%">](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[<img  src="https://ih1.redbubble.net/image.815350031.4911/st,small,507x507-pad,600x600,f8f8f8.u1.jpg" width="50" height="50">](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 <p align="center"><b>Visitors Count</b></p> 
 
