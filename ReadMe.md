@@ -25,6 +25,12 @@ Hello world, my name is Henrique, I am curretly studying<br> programming focused
 
 ###
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/HenriqueDiomedes/count.svg?"  />
+</div>
+
+###
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=HenriqueDiomedes&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=HenriqueDiomedes&theme=github_dark&hide_border=false)<br/>
