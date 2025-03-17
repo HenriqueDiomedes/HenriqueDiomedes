@@ -25,7 +25,9 @@ Hello world, my name is Henrique, I am curretly studying<br> programming focused
 
 ###
 
-<div align="center">
+<br clear="both">
+
+<div align="right">
   <img src="https://profile-counter.glitch.me/HenriqueDiomedes/count.svg?"  />
 </div>
 
