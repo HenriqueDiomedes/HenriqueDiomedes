@@ -22,6 +22,7 @@ Hello world, my name is Henrique, I am curretly studying<br> programming focused
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="15483c20-edf8-4fea-bd4a-d5e410a48b73" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 ###
 
